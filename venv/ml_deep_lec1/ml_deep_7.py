@@ -38,7 +38,7 @@ print(np.eye(5,dtype=int))
 """
 
 x = np.eye(5,dtype=int)
-print(x)         vf
+print(x)
 print(np.diag(x))
 
 x = np.arange(9).reshape(3,3)
